@@ -1,0 +1,11 @@
+Youtube :
+    Code link: https://github.com/subhadip-kundu/Mini-projects/tree/main/MiniProject/YoutubeHomepage
+    Host link: https://youtube8.netlify.app
+
+Gmail :
+    Code link: https://github.com/subhadip-kundu/Mini-projects/tree/main/MiniProject/GmailHomepage
+    Host link: https://gmail4.netlify.app
+
+Slack : 
+    Code link: https://github.com/subhadip-kundu/Mini-projects/tree/main/MiniProject/SlackHomepage
+    Host link: https://slack-100.netlify.app

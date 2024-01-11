@@ -1,0 +1,12 @@
+- Working Directory: This is your local workspace where you actively make changes to files. It's a temporary area where changes are not yet committed to the Git history.
+- Staging Area: This acts as a preparatory zone. It's where you select specific changes from the working directory to be included in the next commit. It's like a "preview" of the upcoming commit.
+- Repository (or "Repo"): This is the central storage for your project's history, tracking all versions of files and commits. It's typically hosted on a remote server like GitHub, GitLab, or Bitbucket.
+
+Workflow Steps:
+
+1. Make Changes: Edit files within your working directory.
+2. Stage Changes: Use 'git add' to move selected changes from the working directory to the staging area.
+3. Commit Changes: Use 'git commit' to create a snapshot of the staged changes, along with a descriptive message. This snapshot is added to the local repository.
+4. Push Changes: Use 'git push' to transfer committed changes from your local repository to the remote repository, making them accessible to others.
+
+
