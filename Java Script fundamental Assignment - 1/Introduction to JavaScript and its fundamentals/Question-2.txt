@@ -1,0 +1,12 @@
+Explain the key differences between JavaScript and HTML. Provide examples of situations where
+you would use each.
+
+--> HTML and JavaScript, the web's dynamic duo!
+
+HTML: Architect of the web. Builds the blueprint with tags, laying out text, images, and links like bricks. Static, but sturdy.
+
+JavaScript: The choreographer. Breathes life into HTML, making buttons dance, forms react, and content update in real-time. Dynamic, but needs the blueprint.
+
+Think of a restaurant website. HTML builds the menu and displays pictures of dishes. JavaScript powers the ordering system, calculates bills, and shows live table availability.
+
+Together, they create vibrant, interactive experiences that keep us glued to the web!

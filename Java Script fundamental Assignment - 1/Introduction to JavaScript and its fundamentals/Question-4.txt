@@ -1,0 +1,21 @@
+Purpose of declaring variables in JavaScript:
+--> Variables store and manage data, allowing easy reference and manipulation throughout the code.
+
+How to declare variables using 'let':
+--> Use the let keyword followed by the variable name. Optionally, assign an initial value using =.
+
+Example:
+
+let myVariable; 
+let anotherVariable = 10; 
+
+
+Later, update the value:
+
+myVariable = "Hello, World!";
+
+
+
+
+
+

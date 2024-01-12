@@ -1,0 +1,11 @@
+List and describe the five primitive data types in JavaScript.
+
+--> Five JavaScript primitives data types
+
+1. Numbers: Counting & decimals (27, 3.14)
+2. Strings: Text in quotes ("Hello", 'world')
+3. Booleans: True or false (on/off switches)
+4. Undefined: Nothing there (empty box)
+5. Null: No value on purpose (empty on purpose)
+
+They're simple blocks of data, building blocks for your code!
