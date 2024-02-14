@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+main{
+    display: flex;
+    width: 100%;
+}
+
+.left-part{
+    width: 34%;
+}
+
+.right-part{
+    width: 64%;
+}
+
