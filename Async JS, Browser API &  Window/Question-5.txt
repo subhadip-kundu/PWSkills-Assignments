@@ -1,0 +1,14 @@
+ Browser APIs are functionalities provided by web browsers to interact with various aspects of the web platform. Here are some common Browser APIs available to JavaScript developers:
+
+1. DOM (Document Object Model) API: This API allows JavaScript to interact with the structure and content of HTML documents. Developers can manipulate elements, modify their attributes, and respond to user events.
+
+2. Fetch API: The Fetch API provides an interface for fetching resources asynchronously across the network. It offers a more powerful and flexible way to make HTTP requests compared to the older XMLHttpRequest.
+
+3. Web Storage API: This API provides mechanisms for storing key/value pairs locally within the user's browser, including sessionStorage and localStorage. Developers can store data persistently or session-based, depending on their needs.
+
+4. IndexedDB API: IndexedDB is a low-level API for client-side storage of significant amounts of structured data, including files/blobs. It allows for the storage and retrieval of objects that are indexed with a key.
+
+5. Web Workers API: Web Workers enable running scripts in background threads, allowing for concurrent execution and improved performance. This API helps offload tasks from the main UI thread, preventing UI freezes.
+
+6. Web Audio API: This API provides advanced audio processing and synthesis capabilities in the browser. Developers can create, manipulate, and synchronize audio streams for applications such as games or music players.
+

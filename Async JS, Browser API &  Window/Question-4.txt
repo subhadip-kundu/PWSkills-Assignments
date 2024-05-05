@@ -1,0 +1,9 @@
+1. Readability: Promises offer cleaner code compared to nested callbacks.
+
+2. Error Handling: Promises provide a built-in `.catch()` method for easier error handling.
+
+3. Callback Hell: Promises help avoid the complexity of nested callbacks.
+
+4. Chaining: Promises allow for easy chaining of asynchronous operations.
+
+5. Error Propagation: Promises automatically propagate errors down the chain for better error management.
